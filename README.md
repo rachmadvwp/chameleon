@@ -223,17 +223,19 @@ A full list of configuration registers is provided below. If you want to change 
 
 ## Citation
 
-Upon usage of the source code of Chameleon, please cite the associated [paper](https://arxiv.org/abs/2505.24852):
+Upon usage of the source code of Chameleon, please cite the associated [paper](https://ieeexplore.ieee.org/document/11353126/):
 
 ```bibtex
-@misc{blanken2025chameleon,
-    title={Chameleon: A MatMul-Free Temporal Convolutional Network Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data},
-    author={Douwe den Blanken and Charlotte Frenkel},
-    year={2025},
-    eprint={2505.24852},
-    archivePrefix={arXiv},
-    primaryClass={cs.AR}
-}
+@ARTICLE{11353126,
+  author={Blanken, Douwe den and Frenkel, Charlotte},
+  journal={IEEE Journal of Solid-State Circuits}, 
+  title={Chameleon: A Multiplier-Free Temporal Convolutional Network Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-16},
+  keywords={System-on-chip;Accuracy;Training;Metalearning;Computational modeling;Vectors;Testing;Prototypes;Integrated circuit modeling;Edge AI;Continual learning (CL);digital accelerator;few-shot learning (FSL);keyword spotting (KWS);multiplier-free;sequential data;system-on-chip (SoC);temporal convolutional network (TCN)},
+  doi={10.1109/JSSC.2025.3645640}}
 ```
 
 ## Licenses
