@@ -2,7 +2,7 @@
     <img src="docs/img/die_photograph.jpg" alt="Chameleon" width="300" alt="Chip die photograph of the taped out Chameleon chip">
 </p>
 
-# Chameleon: A MatMul-Free TCN Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data
+# Chameleon: A Multiplier-Free Temporal Convolutional Network Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data
 
 Chameleon is the first chip carrying out end-to-end FSL and CL with temporal data (no off-chip embedder, all weights on-chip), with three key innovations all validated in silicon:
 
